@@ -1,0 +1,7 @@
+body {
+    background-color: #FFE5CC; /* Light shade of orange */
+    color: #003366; /* Dark blue for all text */
+}
+header strong em {
+    color: #FF7F00; /* Dark Orange */
+}
